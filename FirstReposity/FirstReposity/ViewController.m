@@ -19,7 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     // 现在是在viewController里更新
     
-    
+    // 这是第二次测试
 }
 
 - (void)didReceiveMemoryWarning {
